@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mzubailov/mzubailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Magomed, a Project Manager and budding Frontend Developer with a knack for Python and data analytics. Currently leading a talented team at Tinkoff Mobile's chatbot, I'm on a mission to switch gears into development.
 
-Here are some ideas to get you started:
+👨‍💻 **Developing:** I'm honing my frontend skills, building on a foundation laid by Python and SQL for analytics automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 **Interests:** Outside of coding, I'm a gamer, sports enthusiast, and a Jiu-Jitsu practitioner.
+
+🚀 **Goals:** Transitioning from product management to full-time development, aiming to craft seamless user experiences.
+
+🔗 **Live Site:** Check out my work [here](https://mzubailov.github.io).
+
+Feel free to reach out for collaborations or just a chat about tech, sports, or anything in between!
