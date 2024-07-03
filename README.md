@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Magomed, a Project Manager and budding Frontend Developer with a knack for Python and data analytics. Currently leading a talented team at Tinkoff Mobile's chatbot, I'm on a mission to switch gears into development.
+I'm Magomed, a Product Manager and budding Frontend Developer with a knack for Python and data analytics. Currently leading a talented team at Yandex Automatons Robots, I'm on a mission to switch gears into development.
 
 👨‍💻 **Developing:** I'm honing my frontend skills, building on a foundation laid by Python and SQL for analytics automation.
 
